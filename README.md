@@ -1,5 +1,5 @@
 
-# A system to prevent a cyber attack of images "video-based-attack"
+# Preventing a cyber attack of images "video-based-attack"
 
 This project will be part of a process of automation by three-dimensional video images.
 <br>The general idea of ​​this project is to check whether the person identifying with the camera (in real time or video that has already been filmed) does indeed remain the same person throughout the sampling segment or whether the video was disrupted (another picture was taken or information was taken from the frame).
